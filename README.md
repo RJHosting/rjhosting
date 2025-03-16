@@ -4,9 +4,6 @@
 
 Here are some ideas to get you started:
 -->
-<style>
-  Background-color: black;
-</style>
 Hi, I am Roshan Joseph<br/>
 
 🌱 I’m currently learning Computer System Technician<br/>
